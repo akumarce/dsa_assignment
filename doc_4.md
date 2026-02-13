@@ -1,14 +1,12 @@
----
-
 # Question 4: Doubly Linked List – Insert and Delete
 
 ## 1. Purpose
 
 Implements a **doubly linked list** with functions to:
 
-* **Insert a node after a given node**
-* **Delete a specific node**
-* **Traverse the list forward and backward**
+- **Insert a node after a given node**
+- **Delete a specific node**
+- **Traverse the list forward and backward**
 
 Demonstrates **dynamic memory management** and **modular function design** in C.
 
